@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey there 👋, I'm Divyansh verma</h1>
 
-###
+
 
 <h2 align="center">👩‍💻  About Me</h2>
 <h3 align="center">Student at Biet Jhansi</h3>
