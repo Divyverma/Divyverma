@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Divyansh verma</h1>
 
 ###
 
 <h2 align="center">👩‍💻  About Me</h2>
-
+<h3 align="center">Student at Biet Jhansi</h3>
 ###
 
-<h5 align="center">Hi 👋, I'm Divyansh verma<br><br>I'm passionate frontend developer with a keen eye for creating visually stunning and highly functional user interfaces.</h5>
+<h5 align="center"> <br><br>I'm passionate frontend developer with a keen eye for creating visually stunning and highly functional user interfaces.</h5>
 
 ###
 
